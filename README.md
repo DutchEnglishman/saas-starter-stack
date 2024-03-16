@@ -4,33 +4,35 @@
 Get your SaaS up and running in no time with this list of free and affordable tools. [Contribute](#contribute).
 
 ## Table of Contents
-- [Guide](#guide)
-- [Interviews](#interviews)
-- [Tools](#tools)
+- [SaaS Starter Stack](#saas-starter-stack)
+  - [Table of Contents](#table-of-contents)
+  - [Guide](#guide)
+  - [Interviews](#interviews)
+  - [Tools](#tools)
     - [Code](#code)
     - [Boilerplate Starter Kits](#boilerplate-starter-kits)
     - [Databases](#databases)
     - [Hosting](#hosting)
-    - [Subscriptions & Payments](#subscriptions-and-payments)
-    - [Knowledge Base & Help Center](#knowledge-base-and-help-center)
+    - [Subscriptions and Payments](#subscriptions-and-payments)
+    - [Knowledge Base and Help Center](#knowledge-base-and-help-center)
     - [Live Chat](#live-chat)
     - [Chatbots](#chatbots)
     - [Social Media Management](#social-media-management)
     - [Blogging](#blogging)
     - [Link Shortening](#link-shortening)
-    - [Media Processing & CDNs](#media-processing-and-content-delivery-networks)
+    - [Media Processing and Content Delivery Networks](#media-processing-and-content-delivery-networks)
     - [Website Analytics](#website-analytics)
-    - [User Feedback](#user-feedback)
     - [Website Monitoring](#website-monitoring)
+    - [User Feedback](#user-feedback)
     - [SMS Notifications](#sms-notifications)
     - [Push Notifications](#push-notifications)
     - [Affiliates](#affiliates)
-    - [E-mail Notifications](#email-notifications)
+    - [Email Notifications](#email-notifications)
     - [Event Scheduling](#event-scheduling)
     - [Authentification and User Management](#authentification-and-user-management)
     - [CRM](#crm)
     - [Form Builders](#form-builders)
-- [Contribute](#contribute)
+  - [Contribute](#contribute)
 
 ## Guide
 This guide is aimed at guiding you through the whole journey of building your own startup based on my learnings of growing my own startup Pallyy.
@@ -66,6 +68,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Supastarter](https://supastarter.dev) - Production-ready SaaS starter kit for Next.js 14 and Nuxt 3.
 - [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch on iOS and Android.
 - [DevToDollars](https://devtodollars.com) - Open-source Flutter boilerplate.
+- [Supaboost](https://supaboost.dev) - All-in-one Next.js Starter Kit.
 
 ### Databases
 - [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
